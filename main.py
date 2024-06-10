@@ -1,1 +1,1 @@
-#
+# STEP 1 Get transcript from youtube
